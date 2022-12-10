@@ -1,0 +1,22 @@
+Hello everyone , thanks a lot for reviewing my pj. From now on , I want to explain as much as i can for you to understand my codes easily when you take a seek .
+
+Let me  explain about admin control panel first.
+First Section , it have admin section , you can upgrade admin information and also able to upgrade admin's password.
+Second Section  , you'll see main category where you can add phone brands, laptop brands,posts and other tech accessories product types.
+Third Section , at this point you can add products you want to sell with the brands and accessory types that you had created at second section.
+Fourd  Section , It is user managment and order status and managment. You can not only search users and their orders but also you can manage, filter, and etc..
+
+
+Here at web.php , I spilt my routes into a group and i give a name for it. So I hope you understand with the names.
+
+Hope you like it and Have a nice day.
+
+
+
+
+
+Responsive is not available now. The reason is I need to recap a lot for it.
+
+//admin information
+email : admin@gmail.com
+password : 123456789
